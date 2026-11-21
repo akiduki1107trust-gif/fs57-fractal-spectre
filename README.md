@@ -23,3 +23,10 @@ Preprint v0.2.0
 November 21, 2026
 
 Independent peer review and formal verification are pending.
+## Publication and DOI
+
+Published on Zenodo, November 21, 2026.
+
+DOI: 10.5281/zenodo.24412145
+
+https://doi.org/10.5281/zenodo.24412145
